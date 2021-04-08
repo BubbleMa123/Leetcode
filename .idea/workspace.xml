@@ -49,8 +49,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.Leco876">
-    <configuration name="Leco81" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Leco1290">
+    <configuration name="Leco1290" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -58,11 +58,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LinkedList" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leco81.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LinkedList/Leco1290.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Leco1290" />
         <item itemvalue="Python.Leco876" />
         <item itemvalue="Python.Offer_40" />
         <item itemvalue="Python.Offer_39" />
         <item itemvalue="Python.Offer_25" />
-        <item itemvalue="Python.Leco81" />
       </list>
     </recent_temporary>
   </component>
@@ -226,22 +226,22 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="590" y="354" key="Github.ShareDialog/0.0.1440.900@0.0.1440.900" timestamp="1617724262332" />
-    <state width="1419" height="245" key="GridCell.Tab.0.bottom" timestamp="1617779522737">
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom" timestamp="1617878573873">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1617779522737" />
-    <state width="1419" height="245" key="GridCell.Tab.0.center" timestamp="1617779522736">
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1617878573873" />
+    <state width="1419" height="245" key="GridCell.Tab.0.center" timestamp="1617878573872">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1617779522736" />
-    <state width="1419" height="245" key="GridCell.Tab.0.left" timestamp="1617779522735">
+    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1617878573872" />
+    <state width="1419" height="245" key="GridCell.Tab.0.left" timestamp="1617878573871">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1617779522735" />
-    <state width="1419" height="245" key="GridCell.Tab.0.right" timestamp="1617779522736">
+    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1617878573871" />
+    <state width="1419" height="245" key="GridCell.Tab.0.right" timestamp="1617878573873">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1617779522736" />
+    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1617878573873" />
     <state x="221" y="89" key="SettingsEditor" timestamp="1617724172881">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
