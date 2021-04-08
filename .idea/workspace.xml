@@ -38,7 +38,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1qnmXF6pPNZxjD83g7Z5Opohdnh" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -166,7 +166,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617724692423</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit message">
+      <created>1617779088066</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1617779088066</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -179,6 +186,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit message" />
@@ -189,29 +197,29 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="590" y="354" key="Github.ShareDialog/0.0.1440.900@0.0.1440.900" timestamp="1617724262332" />
-    <state width="1419" height="245" key="GridCell.Tab.0.bottom" timestamp="1617778460482">
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom" timestamp="1617779522737">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1617778460482" />
-    <state width="1419" height="245" key="GridCell.Tab.0.center" timestamp="1617778460480">
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1617779522737" />
+    <state width="1419" height="245" key="GridCell.Tab.0.center" timestamp="1617779522736">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1617778460480" />
-    <state width="1419" height="245" key="GridCell.Tab.0.left" timestamp="1617778460479">
+    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1617779522736" />
+    <state width="1419" height="245" key="GridCell.Tab.0.left" timestamp="1617779522735">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1617778460479" />
-    <state width="1419" height="245" key="GridCell.Tab.0.right" timestamp="1617778460481">
+    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1617779522735" />
+    <state width="1419" height="245" key="GridCell.Tab.0.right" timestamp="1617779522736">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1617778460481" />
+    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1617779522736" />
     <state x="221" y="89" key="SettingsEditor" timestamp="1617724172881">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1617724172881" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1617724699842">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1617779109868">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1617724699842" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1617779109868" />
   </component>
 </project>
